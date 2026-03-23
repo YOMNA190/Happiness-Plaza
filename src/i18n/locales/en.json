@@ -1,0 +1,231 @@
+{
+  "app": {
+    "name": "Happiness Plaza",
+    "tagline": "The First Integrated Complex in Upper Egypt",
+    "developedBy": "Developed by Al-Habeeb Group",
+    "managedBy": "Managed by JKFacilities"
+  },
+  "nav": {
+    "home": "Home",
+    "tour": "3D Tour",
+    "units": "Units",
+    "about": "About",
+    "management": "Management",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Al-Habeeb Group Presents",
+    "title": "Happiness",
+    "subtitle": "Plaza",
+    "description": "The First Integrated Complex in Upper Egypt",
+    "description2": "Experience luxury living, premium retail, world-class hospitality, and modern healthcare all in one destination at New Qena's main entrance.",
+    "location": "New Qena, Egypt",
+    "opening": "Opening",
+    "explore3D": "Explore 3D Tour",
+    "viewUnits": "View Units",
+    "scrollToExplore": "Scroll to explore",
+    "stats": {
+      "area": "Square Meters",
+      "areaDesc": "Total Project Area",
+      "progress": "Complete",
+      "progressDesc": "Construction Progress",
+      "retail": "Retail Units",
+      "retailDesc": "Prime Locations",
+      "hotel": "Hotel Rooms",
+      "hotelDesc": "4-Star Hotel"
+    }
+  },
+  "tour": {
+    "badge": "Interactive Experience",
+    "title": "Explore Happiness Plaza",
+    "description": "Navigate through our interactive 3D model. Click on the markers to discover each zone and learn about available opportunities.",
+    "controls": {
+      "drag": "Drag to rotate",
+      "zoom": "Scroll to zoom",
+      "click": "Click markers for details"
+    },
+    "legend": "Zone Legend",
+    "available": "available",
+    "zoneInfo": {
+      "description": "Description",
+      "availability": "Availability",
+      "occupied": "occupied",
+      "services": "Services & Amenities",
+      "location": "Located in Happiness Plaza",
+      "locationAddress": "New Qena Main Entrance, Egypt",
+      "investment": "High Investment Potential",
+      "investmentDesc": "Expected ROI of 12-15% annually based on location and demand analysis.",
+      "inquire": "Inquire About This Zone",
+      "continue": "Continue Exploring"
+    }
+  },
+  "units": {
+    "badge": "Investment Opportunities",
+    "title": "Available Units",
+    "description": "Discover premium commercial spaces, modern offices, and hotel investment opportunities at Happiness Plaza.",
+    "filters": {
+      "search": "Search units...",
+      "all": "All",
+      "retail": "Retail Unit",
+      "office": "Office Space",
+      "hotel": "Hotel Room"
+    },
+    "showing": "Showing",
+    "unit": "unit",
+    "units": "units",
+    "floor": "Floor",
+    "features": "Features & Amenities",
+    "startingFrom": "Starting from",
+    "perSqm": "per m²",
+    "inquire": "Inquire",
+    "viewDetails": "View Details",
+    "status": {
+      "available": "Available",
+      "reserved": "Reserved",
+      "sold": "Sold"
+    },
+    "noUnits": "No units found",
+    "noUnitsDesc": "Try adjusting your search or filter criteria",
+    "modal": {
+      "inquireNow": "Inquire Now",
+      "close": "Close"
+    }
+  },
+  "stats": {
+    "badge": "Project Overview",
+    "title": "Project at a Glance",
+    "description": "Happiness Plaza represents a landmark development in Upper Egypt, combining commercial excellence with modern living standards.",
+    "items": {
+      "area": "Total Project Area (sqm)",
+      "progress": "Construction Complete",
+      "retail": "Retail Units",
+      "office": "Office Spaces",
+      "hotel": "Hotel Rooms",
+      "parking": "Parking Spaces"
+    },
+    "opening": {
+      "title": "Grand Opening",
+      "description": "Be part of Upper Egypt's most prestigious integrated complex. Secure your unit now and benefit from pre-opening prices.",
+      "progress": "Construction Progress"
+    },
+    "highlights": {
+      "location": {
+        "title": "Prime Location",
+        "desc": "Strategically located at New Qena main entrance with excellent connectivity"
+      },
+      "design": {
+        "title": "Integrated Design",
+        "desc": "Seamlessly connected retail, office, hotel, and entertainment zones"
+      },
+      "management": {
+        "title": "Professional Management",
+        "desc": "Expert property management by JKFacilities for optimal returns"
+      }
+    }
+  },
+  "management": {
+    "badge": "Professional Management",
+    "title": "Management & Operation",
+    "description": "Happiness Plaza is developed by Al-Habeeb Group and professionally managed by JKFacilities to ensure optimal performance and returns.",
+    "partners": {
+      "alhabeeb": {
+        "title": "Core Business",
+        "services": ["Real Estate Development", "Project Management", "Investment", "Construction"]
+      },
+      "jkfacilities": {
+        "title": "Services",
+        "services": ["Technical Management", "Administrative Services", "Marketing & Leasing", "Commercial Consulting"]
+      }
+    },
+    "services": {
+      "technical": {
+        "title": "Technical Management",
+        "desc": "Comprehensive maintenance of all building systems, HVAC, electrical, and plumbing infrastructure."
+      },
+      "admin": {
+        "title": "Administrative Services",
+        "desc": "Professional facility management including security, cleaning, and tenant relations."
+      },
+      "marketing": {
+        "title": "Marketing & Leasing",
+        "desc": "Strategic marketing campaigns and tenant acquisition to maximize occupancy rates."
+      },
+      "consulting": {
+        "title": "Commercial Consulting",
+        "desc": "Expert advice on unit positioning, pricing strategies, and market analysis."
+      }
+    },
+    "whyInvest": {
+      "title": "Why Invest with Professional Management?",
+      "desc": "Partnering with JKFacilities ensures your investment is in expert hands. Our professional management approach maximizes returns while maintaining the highest standards of service.",
+      "cta": "Start Your Investment Journey",
+      "benefits": [
+        "Guaranteed professional property maintenance",
+        "Strategic marketing for maximum occupancy",
+        "Transparent financial reporting",
+        "24/7 security and facility management",
+        "Regular property value appreciation",
+        "Hassle-free ownership experience"
+      ]
+    }
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Investment Inquiry",
+    "description": "Interested in investing at Happiness Plaza? Fill out the form below and our team will contact you within 24 hours.",
+    "info": {
+      "location": "Location",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours"
+    },
+    "quickResponse": {
+      "title": "Quick Response",
+      "desc": "Our investment consultants are ready to assist you with:",
+      "items": [
+        "Unit availability and pricing",
+        "Investment ROI calculations",
+        "Payment plan options",
+        "Site visit scheduling"
+      ]
+    },
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+20 XXX XXX XXXX",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "unitType": "Interested In",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your investment goals or any questions you have...",
+      "submit": "Submit Inquiry",
+      "submitting": "Submitting...",
+      "privacy": "By submitting this form, you agree to our privacy policy and terms of service.",
+      "success": {
+        "title": "Thank You!",
+        "desc": "Your inquiry has been submitted successfully. We'll contact you within 24 hours."
+      },
+      "errors": {
+        "nameRequired": "Name is required",
+        "phoneRequired": "Phone number is required",
+        "phoneInvalid": "Please enter a valid phone number",
+        "emailInvalid": "Please enter a valid email address"
+      }
+    }
+  },
+  "footer": {
+    "description": "The first integrated commercial, administrative, hotel, and entertainment complex in Upper Egypt. Developed by Al-Habeeb Group.",
+    "quickLinks": "Quick Links",
+    "unitTypes": "Unit Types",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved. Developed by Al-Habeeb Group.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "ar": "العربية",
+    "en": "English",
+    "switch": "Switch Language"
+  }
+}
