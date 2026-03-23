@@ -328,7 +328,7 @@ This project is proprietary software owned by Al-Habeeb Group.
 
 <p align="center">
   <strong>Developed with ❤️ by Al-Habeeb Group</strong><br>
-  <strong>تم التطوير بـ ❤️ بواسطة مجموعة الحبيب</strong>
+  <strong>تم التطوير  بواسطة بشمهندسه يمنى علي  لمجموعة الحبيب</strong>
 </p>
 
 <p align="center">
