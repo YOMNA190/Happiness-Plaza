@@ -78,6 +78,12 @@
 
 ---
 
+## 📸 Screenshots / GIFs | لقطات الشاشة / صور متحركة
+
+*(Add screenshots or GIFs here to showcase the application's UI/UX and key features.)*
+
+---
+
 ## 🚀 Getting Started | البدء
 
 ### Prerequisites | المتطلبات
@@ -110,32 +116,31 @@ npm run build
 
 ## 📁 Project Structure | هيكل المشروع
 
-```
-src/
-├── components/
-│   ├── 3d/
-│   │   ├── Complex3D.tsx       # Main 3D scene
-│   │   └── ZoneInfoPanel.tsx   # Zone details panel
-│   ├── Navigation.tsx          # Header navigation
-│   ├── Footer.tsx              # Footer
-│   └── LanguageSwitcher.tsx    # Language toggle
-├── sections/
-│   ├── HeroSection.tsx         # Hero section
-│   ├── Tour3DSection.tsx       # 3D tour
-│   ├── UnitsSection.tsx        # Units showcase
-│   ├── StatsSection.tsx        # Statistics
-│   ├── ManagementSection.tsx   # Management info
-│   └── ContactSection.tsx      # Contact form
-├── i18n/
-│   ├── locales/
-│   │   ├── en.json            # English translations
-│   │   └── ar.json            # Arabic translations
-│   └── index.ts               # i18n config
-├── data/
-│   └── mockData.ts            # Project data
-├── types/
-│   └── index.ts               # TypeScript types
-└── App.tsx                    # Main app
+```	src/
+	├── components/
+	│   ├── 3d/
+	│   │   ├── Complex3D.tsx       # Main 3D scene
+	│   │   └── ZoneInfoPanel.tsx   # Zone details panel
+	│   ├── Navigation.tsx          # Header navigation
+	│   ├── Footer.tsx              # Footer
+	│   └── LanguageSwitcher.tsx    # Language toggle
+	├── sections/
+	│   ├── HeroSection.tsx         # Hero section
+	│   ├── Tour3DSection.tsx       # 3D tour
+	│   ├── UnitsSection.tsx        # Units showcase
+	│   ├── StatsSection.tsx        # Statistics
+	│   ├── ManagementSection.tsx   # Management info
+	│   └── ContactSection.tsx      # Contact form
+	├── i18n/
+	│   ├── locales/
+	│   │   ├── en.json            # English translations
+	│   │   └── ar.json            # Arabic translations
+	│   └── index.ts               # i18n config
+	├── data/
+	│   └── mockData.ts            # Project data
+	├── types/
+	│   └── index.ts               # TypeScript types
+	└── App.tsx                    # Main app
 ```
 
 ---
@@ -297,9 +302,9 @@ The app is PWA-ready. To enable:
 We welcome contributions! Please follow these steps:
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
+2. Create a feature branch (`git checkout -b feat/amazing-feature`)
+3. Commit changes (`git commit -m 'feat: Add amazing feature'`)
+4. Push to branch (`git push origin feat/amazing-feature`)
 5. Open a Pull Request
 
 ---
@@ -313,6 +318,12 @@ This project is proprietary software owned by Al-Habeeb Group.
 ---
 
 ## 📞 Contact | التواصل
+
+For any inquiries or support, please contact Yomna via:
+
+*   **Email:** [your-email@example.com](mailto:your-email@example.com)
+*   **Portfolio:** [Your Portfolio Link](https://your-portfolio.com)
+*   **GitHub:** [YOMNA190](https://github.com/YOMNA190)
 
 **Al-Habeeb Group | مجموعة الحبيب**
 - 🌐 Website: [www.happinessplaza.com](https://www.happinessplaza.com)
